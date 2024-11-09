@@ -1,8 +1,13 @@
-//
-//  Question.swift
-//  Question App
-//
-//  Created by Angelo Bellanca on 08/11/24.
-//
-
 import Foundation
+
+struct Question {
+    let text : String
+    let answer : String
+    
+    init (text: String, answer: String) {
+        self.text = text
+        self.answer = answer
+    }
+}
+
+
