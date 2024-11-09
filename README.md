@@ -6,9 +6,9 @@
 
 Ecco alcuni screenshot dell'app in uso:
 
-![Home dell'app](images/home.png)
-![Domanda e risposte](images/question.png)
-![Domanda con errore](images/questionError.png)
+![Home dell'app](Question%App/images/home.png)
+![Domanda e risposte](Question%App/images/question.png)
+![Domanda con errore](Question%App/images/questionError.png)
 
 ## Funzionalità principali
 
